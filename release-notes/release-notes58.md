@@ -43,7 +43,7 @@ The following enhancements were made for the {{site.productname}} 5.8 release.
 
 {{site.productname}} 5.8 introduces the following minor enhancements:
 
-- changelog
+- Improved list dialog to support alpha-characters instead of index only.
 
 ## Accompanying Premium Plugin changes
 
